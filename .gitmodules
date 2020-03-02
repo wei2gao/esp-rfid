@@ -1,0 +1,3 @@
+[submodule ".pio/libdeps/generic/Wiegand-Protocol-Library-for-Arduino"]
+	path = .pio/libdeps/generic/Wiegand-Protocol-Library-for-Arduino
+	url = git@github.com:wei2gao/Wiegand-Protocol-Library-for-Arduino.git
